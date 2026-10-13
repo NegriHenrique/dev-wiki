@@ -1,0 +1,8 @@
+# URLs de desenvolvimento local
+http://localhost:*
+http://127.0.0.1:*
+
+# Placeholders e URLs de exemplo em documentação
+https://github.com/SEU_USUARIO/*
+https://github.com/seu-usuario-github/*
+https://api.exemplo.com/*
