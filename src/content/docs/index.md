@@ -22,7 +22,7 @@ hero:
 A **Dev Wiki** foi criada para quebrar a barreira de entrada no ecossistema de tecnologia e projetos de código aberto. Aqui, você encontra materiais objetivos, sem rodeios ou teorias intermináveis antes da prática.
 
 :::tip[Filosofia Open Source]
-Aprender em público e colaborar em equipe acelera a carreira de qualquer desenvolvedor. Participe ativamente sugerindo correções, escrevendo novos guias ou revisando conteúdos existentes.
+Aprender em público e colaborar em equipe acelera a carreira de qualquer pessoa desenvolvedora. Nosso objetivo é compartilhar conhecimento, mas não nos consideramos especialistas absolutos: somos uma comunidade querendo se ajudar mutuamente. Por isso, qualquer correção ou aprimoramento é sempre muito bem-vindo!
 :::
 
 ## Trilhas de Conhecimento
@@ -31,6 +31,7 @@ Nossos guias são estruturados em áreas fundamentais:
 
 * **Controle de Versão com Git e GitHub**: Do primeiro commit ao envio de Pull Requests profissionais.
 * **Lógica e Fundamentos**: Algoritmos, repetições e raciocínio computacional aplicados.
+* **Estrutura de Dados e Algoritmos**: Dos fundamentos de memória e arrays a grafos, otimização e projetos práticos.
 * **Boas Práticas & Clean Code**: Como escrever código sustentável, legível e que sua equipe terá orgulho de manter.
 * **Desenvolvimento Frontend**: Entendendo a anatomia da web moderna e a manipulação do DOM.
 * **Desenvolvimento Backend**: Compreendendo a comunicação entre sistemas através de APIs e serviços.

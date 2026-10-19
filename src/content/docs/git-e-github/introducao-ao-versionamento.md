@@ -56,3 +56,13 @@ Faça commits pequenos e frequentes. Cada commit deve representar uma unidade l�
 <!-- TODO: Escrever a explicação sobre comandos de inspeção de histórico (git log, git diff) e ramificações (git branch) aqui -->
 
 Agora que você compreende a base do Git local, o próximo passo indispensável é aprender a colaborar em projetos remotos e enviar seu primeiro Pull Request no GitHub.
+
+## Leituras Recomendadas e Referências
+
+* [Livro Pro Git (Gratuito em Português)](https://git-scm.com/book/pt-br/v2) — Obra de referência oficial e aprofundada sobre a arquitetura e uso avançado do Git.
+* [Documentação Oficial do Git](https://git-scm.com/doc) — Manuais detalhados de cada comando e parâmetro do Git.
+<!-- TODO: Adicionar recomendações de artigos e tutoriais da comunidade sobre Git aqui -->
+
+:::note[Comunidade e Aprendizado Contínuo]
+Este conteúdo foi construído de forma colaborativa pela comunidade. O objetivo deste projeto é compartilhar conhecimento prático, mas não nos consideramos especialistas absolutos nos tópicos — somos apenas pessoas desenvolvedoras aprendendo e se ajudando mutuamente. Encontrou algum erro, imprecisão técnica ou tem uma sugestão de melhoria? [Toda correção é bem-vinda, envie seu Pull Request!](/git-e-github/como-fazer-seu-primeiro-pull-request/)
+:::

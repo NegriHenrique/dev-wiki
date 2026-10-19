@@ -4,6 +4,8 @@
 
 O objetivo da **Dev Wiki** é reduzir a barreira de entrada para iniciantes no universo de desenvolvimento de software e no ecossistema open source. Fornecemos explicações técnicas de alta qualidade, diretas ao ponto, com linguagem acessível e foco absoluto em escaneabilidade.
 
+> **Importante:** O intuito deste projeto é transmitir e consolidar conhecimento coletivo. Não somos especialistas absolutos nos tópicos abordados — somos pessoas colaborando e querendo se ajudar. Toda e qualquer correção, ajuste ou sugestão de melhoria é sempre muito bem-vinda!
+
 ---
 
 ## 🚀 Tecnologias

@@ -45,3 +45,13 @@ botao.addEventListener("click", () => {
 :::caution[Performance e Reflow]
 Alterações frequentes e desordenadas no DOM forçam o navegador a recalcular posições visuais na tela (*reflow* e *repaint*), o que pode causar lentidão perceptível na experiência do usuário.
 :::
+
+## Leituras Recomendadas e Referências
+
+* [MDN Web Docs: Document Object Model (DOM)](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model) — A documentação de referência mais completa sobre APIs do DOM e manipulação de nós.
+* [W3C DOM Specification](https://dom.spec.whatwg.org/) — O padrão aberto oficial mantido pelo WHATWG detalhando as especificações do DOM.
+<!-- TODO: Adicionar recomendações de artigos práticos sobre Virtual DOM (React/Vue) e renderização moderna aqui -->
+
+:::note[Comunidade e Aprendizado Contínuo]
+Este conteúdo foi construído de forma colaborativa pela comunidade. O objetivo deste projeto é compartilhar conhecimento prático, mas não nos consideramos especialistas absolutos nos tópicos — somos apenas pessoas desenvolvedoras aprendendo e se ajudando mutuamente. Encontrou algum erro, imprecisão técnica ou tem uma sugestão de melhoria? [Toda correção é bem-vinda, envie seu Pull Request!](/git-e-github/como-fazer-seu-primeiro-pull-request/)
+:::

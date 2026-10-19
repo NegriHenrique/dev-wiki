@@ -76,3 +76,13 @@ function calcularDesconto(preco, cupomValido) {
 ```
 
 <!-- TODO: Adicionar dicas sobre quando comentar e quando NÃO comentar código aqui -->
+
+## Leituras Recomendadas e Referências
+
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) — Guia oficial de estilo e convenções adotado pela engenharia do Google.
+* [Martin Fowler: Refactoring](https://martinfowler.com/books/refactoring.html) — Artigos e conceitos fundamentais sobre evolução sustentável e clareza de código.
+<!-- TODO: Adicionar resenhas e links para artigos da comunidade sobre princípios SOLID aplicados aqui -->
+
+:::note[Comunidade e Aprendizado Contínuo]
+Este conteúdo foi construído de forma colaborativa pela comunidade. O objetivo deste projeto é compartilhar conhecimento prático, mas não nos consideramos especialistas absolutos nos tópicos — somos apenas pessoas desenvolvedoras aprendendo e se ajudando mutuamente. Encontrou algum erro, imprecisão técnica ou tem uma sugestão de melhoria? [Toda correção é bem-vinda, envie seu Pull Request!](/git-e-github/como-fazer-seu-primeiro-pull-request/)
+:::

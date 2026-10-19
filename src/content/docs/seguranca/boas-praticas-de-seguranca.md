@@ -60,3 +60,13 @@ Conceda apenas o nível mínimo de acesso necessário para cada usuário, servi�
 :::
 
 <!-- TODO: Escrever a explicação sobre princípios de criptografia em trânsito (HTTPS/TLS) e criptografia em repouso (hashing com bcrypt/argon2) aqui -->
+
+## Leituras Recomendadas e Referências
+
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) — O guia global de referência sobre os 10 riscos e vulnerabilidades de segurança mais críticos em aplicações web.
+* [GitHub: Boas Práticas de Segurança em Repositórios](https://docs.github.com/pt/code-security) — Recomendações oficiais do GitHub para manter o código-fonte livre de credenciais e dependências vulneráveis.
+<!-- TODO: Adicionar recomendações de artigos sobre autenticação com OAuth 2.0 e boas práticas de JWT aqui -->
+
+:::note[Comunidade e Aprendizado Contínuo]
+Este conteúdo foi construído de forma colaborativa pela comunidade. O objetivo deste projeto é compartilhar conhecimento prático, mas não nos consideramos especialistas absolutos nos tópicos — somos apenas pessoas desenvolvedoras aprendendo e se ajudando mutuamente. Encontrou algum erro, imprecisão técnica ou tem uma sugestão de melhoria? [Toda correção é bem-vinda, envie seu Pull Request!](/git-e-github/como-fazer-seu-primeiro-pull-request/)
+:::

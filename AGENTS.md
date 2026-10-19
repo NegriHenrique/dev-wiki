@@ -23,9 +23,10 @@ Sempre que for solicitado a criar ou editar um artigo na pasta `src/content/docs
 * **Estilo de Prosa (Pirâmide Invertida):** Vá direto ao ponto. Entregue a conclusão ou a informação mais importante no primeiro parágrafo.
 * **Clareza e Escaneabilidade:** Use frases curtas, voz ativa e evite jargões desnecessários. Quebre textos longos em listas ou blocos de notas.
 * **Asides/Admonitions:** Use a sintaxe do Starlight (`:::note`, `:::tip`, `:::caution`) para destacar informações importantes.
-* **Código:** Todo bloco de código deve ter a linguagem especificada logo após os backticks (ex: `javascript `) para o syntax highlighting funcionar corretamente.
+* **Código:** Todo bloco de código deve ter a linguagem especificada logo após os backticks (ex: `javascript`) para o syntax highlighting funcionar corretamente.
+* **Leituras Recomendadas e Humildade Comunitária:** Todo artigo deve encerrar com uma seção `## Leituras Recomendadas` (ou referências) sugerindo artigos e documentações oficiais para aprofundamento, acompanhada de um lembrete afetuoso e humilde de que o objetivo do projeto é transmitir conhecimento, mas não nos consideramos especialistas definitivos nos tópicos — somos apenas pessoas querendo se ajudar e qualquer correção ou melhoria é sempre muito bem-vinda via Pull Request.
 
-## 4. Governança, Licenciamento e Git
+## 4. Governança, Licenciamento e Gite
 
 * **Licenciamento Duplo:** Lembre-se sempre de que o conteúdo textual (a prosa) está sob a licença **CC BY-SA 4.0**, enquanto todos os blocos de código-fonte estão sob a licença permissiva **MIT**.
 * **Developer Certificate of Origin (DCO):** Todos os commits neste repositório exigem assinatura. Se você for gerar comandos git, inclua a flag de sign-off (ex: `git commit -s -m "feat: adiciona artigo sobre X"`).

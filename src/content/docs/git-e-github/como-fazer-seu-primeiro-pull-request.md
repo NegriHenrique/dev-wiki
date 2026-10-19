@@ -75,3 +75,13 @@ Após o envio:
 :::note[Fluxo Resumido]
 Fork ➔ Clone ➔ Nova Branch ➔ Alterações ➔ Commit Assinado (`-s`) ➔ Push ➔ Abrir PR no GitHub ➔ Revisão da Comunidade.
 :::
+
+## Leituras Recomendadas e Referências
+
+* [Documentação Oficial do GitHub: Como Criar um Pull Request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) — O passo a passo oficial mantido pelo GitHub.
+* [Primeiros Passos no Open Source (Open Source Guides)](https://opensource.guide/pt/how-to-contribute/) — Excelente guia sobre etiqueta, comunicação e cultura em projetos colaborativos abertos.
+<!-- TODO: Adicionar recomendações de ferramentas que facilitam o fluxo de PRs (como GitHub CLI - gh) aqui -->
+
+:::note[Comunidade e Aprendizado Contínuo]
+Este conteúdo foi construído de forma colaborativa pela comunidade. O objetivo deste projeto é compartilhar conhecimento prático, mas não nos consideramos especialistas absolutos nos tópicos — somos apenas pessoas desenvolvedoras aprendendo e se ajudando mutuamente. Encontrou algum erro, imprecisão técnica ou tem uma sugestão de melhoria? Toda correção é bem-vinda, sinta-se à vontade para enviar seu Pull Request!
+:::

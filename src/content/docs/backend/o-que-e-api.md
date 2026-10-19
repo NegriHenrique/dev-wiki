@@ -53,3 +53,13 @@ APIs protegidas costumam exigir tokens de autorização (como Bearer Tokens ou J
 :::
 
 <!-- TODO: Escrever a explicação sobre as diferenças conceituais entre APIs RESTful, GraphQL e RPC aqui -->
+
+## Leituras Recomendadas e Referências
+
+* [MDN Web Docs: Uma Visão Geral do HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview) — Explicação aprofundada sobre arquitetura HTTP, cabeçalhos, requisições e respostas.
+* [Red Hat: O Que É uma API?](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces) — Artigo conceitual claro explicando tipos de APIs e integrações empresariais.
+<!-- TODO: Adicionar recomendações de documentações de APIs públicas para praticar (ex: GitHub REST API, PokeAPI) aqui -->
+
+:::note[Comunidade e Aprendizado Contínuo]
+Este conteúdo foi construído de forma colaborativa pela comunidade. O objetivo deste projeto é compartilhar conhecimento prático, mas não nos consideramos especialistas absolutos nos tópicos — somos apenas pessoas desenvolvedoras aprendendo e se ajudando mutuamente. Encontrou algum erro, imprecisão técnica ou tem uma sugestão de melhoria? [Toda correção é bem-vinda, envie seu Pull Request!](/git-e-github/como-fazer-seu-primeiro-pull-request/)
+:::

@@ -82,6 +82,7 @@ Para garantir que o conteúdo seja acessível, claro e rápido de assimilar, seg
    * `:::tip` para dicas práticas e atalhos úteis.
    * `:::caution` para alertas de erros frequentes e armadilhas.
 6. **Blocos de Código**: Todo bloco de código delimitado por crases triplas deve conter a linguagem explícita (ex: `javascript`, `bash`, `python`, `html`).
+7. **Leituras Recomendadas e Humildade Comunitária**: Todo artigo deve encerrar com uma seção `## Leituras Recomendadas e Referências`, trazendo links úteis para aprofundamento e o aviso padrão de que estamos aprendendo juntos e correções são sempre bem-vindas.
 
 ---
 
@@ -121,9 +122,13 @@ console.log(calcularMedia(8, 10)); // Saída: 9
 Alerte sobre comportamentos inesperados ou equívocos comuns que iniciantes costumam cometer.
 :::
 
-## Referências e Links Úteis
+## Leituras Recomendadas e Referências
 
-* Documentação oficial e materiais confiáveis de estudo.
+* [Nome da Referência ou Artigo](link-para-artigo-ou-documentacao-oficial) - Breve descrição de por que vale a leitura.
+
+:::note[Comunidade e Aprendizado Contínuo]
+Este conteúdo foi construído de forma colaborativa pela comunidade. O propósito deste projeto é transmitir conhecimento e aprender em conjunto — não somos especialistas supremos nos tópicos, mas pessoas apaixonadas por tecnologia querendo se ajudar mutuamente. Encontrou algum erro, imprecisão ou tem uma explicação melhor? Toda contribuição e correção é super bem-vinda via Pull Request!
+:::
 ````
 
 ---

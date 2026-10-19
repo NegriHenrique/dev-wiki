@@ -61,3 +61,13 @@ for (let i = 1; i <= 5; i++) {
 ```
 
 <!-- TODO: Escrever a explicação detalhada com casos de uso comuns de break em buscas em listas aqui -->
+
+## Leituras Recomendadas e Referências
+
+* [MDN Web Docs: Laços e Iterações](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration) — Guia aprofundado da Mozilla sobre todas as estruturas de repetição em JavaScript.
+* [W3Schools: JavaScript Loops](https://www.w3schools.com/js/js_loop_for.asp) — Exemplos interativos para praticar a sintaxe diretamente no navegador.
+<!-- TODO: Adicionar recomendações de artigos e desafios de lógica (ex: Beecrowd, LeetCode) sobre loops aqui -->
+
+:::note[Comunidade e Aprendizado Contínuo]
+Este conteúdo foi construído de forma colaborativa pela comunidade. O objetivo deste projeto é compartilhar conhecimento prático, mas não nos consideramos especialistas absolutos nos tópicos — somos apenas pessoas desenvolvedoras aprendendo e se ajudando mutuamente. Encontrou algum erro, imprecisão técnica ou tem uma sugestão de melhoria? [Toda correção é bem-vinda, envie seu Pull Request!](/git-e-github/como-fazer-seu-primeiro-pull-request/)
+:::
