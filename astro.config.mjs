@@ -7,7 +7,8 @@ import remarkMath from 'remark-math';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://seu-usuario-github.github.io',
+	site: 'https://negrihenrique.github.io',
+	base: '/dev-wiki',
 	markdown: {
 		remarkPlugins: [remarkMath],
 		rehypePlugins: [rehypeKatex],
@@ -25,7 +26,7 @@ export default defineConfig({
 				},
 			},
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/seu-usuario-github/dev-wiki' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/NegriHenrique/dev-wiki' },
 			],
 			sidebar: [
 				{
