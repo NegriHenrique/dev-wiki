@@ -1,5 +1,5 @@
 ---
-title: Acervo Colaborativo Dev Wiki
+title: Acervo Colaborativo <span class="brand-dev">Dev</span> <span class="brand-wiki">Wiki</span>
 description: Base de conhecimento aberta, prática e colaborativa para desenvolvedores.
 template: splash
 hero:
@@ -12,9 +12,12 @@ hero:
       icon: right-arrow
       variant: primary
     - text: Como Contribuir
-      link: /git-e-github/como-fazer-seu-primeiro-pull-request/
-      icon: open-book
+      link: https://github.com/NegriHenrique/dev-wiki/blob/main/CONTRIBUTING.md
+      icon: external
       variant: secondary
+      attrs:
+        target: _blank
+        rel: noopener noreferrer
 ---
 
 ## Sobre o Acervo
@@ -43,4 +46,4 @@ Todo o material deste acervo é mantido em formato Markdown no GitHub.
 
 1. Escolha um tópico na barra lateral de navegação.
 2. Identifique pontos de melhoria ou tópicos que ainda não foram escritos.
-3. Leia o nosso [Guia de Contribuição](/git-e-github/como-fazer-seu-primeiro-pull-request/) e envie seu Pull Request!
+3. Leia o nosso <a href="https://github.com/NegriHenrique/dev-wiki/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Guia de Contribuição <span aria-hidden="true">↗</span></a> e envie seu Pull Request!

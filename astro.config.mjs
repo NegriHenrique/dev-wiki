@@ -17,7 +17,12 @@ export default defineConfig({
 		mermaid(),
 		starlight({
 			title: 'Dev Wiki',
-			customCss: ['./src/styles/katex.css'],
+			logo: {
+				src: './public/logo.png',
+				alt: 'Dev Wiki',
+				replacesTitle: true,
+			},
+			customCss: ['./src/styles/katex.css', './src/styles/brand.css'],
 			defaultLocale: 'pt-br',
 			locales: {
 				root: {

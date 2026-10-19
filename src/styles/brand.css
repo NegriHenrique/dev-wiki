@@ -1,0 +1,42 @@
+:root {
+    --dev-coral: #ff6b6b;
+    --dev-purple: #9d4edd;
+    --dev-cyan: #48cae4;
+    --dev-white: #ffffff;
+    --dev-slate: #0f172a;
+
+    --sl-color-bg-sidebar: var(--dev-slate);
+    --sl-color-bg-nav: var(--dev-slate);
+    --sl-color-text-accent: var(--dev-cyan);
+    --sl-color-accent: var(--dev-purple);
+    --sl-color-accent-high: var(--dev-cyan);
+}
+
+[data-theme='dark'] {
+    --sl-color-bg: var(--dev-slate);
+    --sl-color-bg-sidebar: var(--dev-slate);
+    --sl-color-bg-nav: var(--dev-slate);
+}
+
+.hero h1 {
+    color: var(--dev-white);
+}
+
+.hero h1 .brand-dev {
+    color: var(--dev-white);
+}
+
+.hero h1 .brand-wiki {
+    background: linear-gradient(90deg, var(--dev-coral), var(--dev-purple), var(--dev-cyan));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.site-title img {
+    max-height: calc(var(--sl-nav-height) - 2 * var(--sl-nav-pad-y));
+}
+
+.sidebar-content {
+    background-color: var(--dev-slate);
+}
