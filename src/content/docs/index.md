@@ -8,7 +8,7 @@ hero:
     file: ../../assets/houston.webp
   actions:
     - text: Começar a Aprender
-      link: /git-e-github/introducao-ao-versionamento/
+      link: /dev-wiki/git-e-github/como-fazer-seu-primeiro-pull-request/
       icon: right-arrow
       variant: primary
     - text: Como Contribuir
