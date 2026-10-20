@@ -17,6 +17,7 @@ export default defineConfig({
 		mermaid(),
 		starlight({
 			title: 'Dev Wiki',
+			favicon: '/favicon.ico',
 			logo: {
 				src: './public/logo.png',
 				alt: 'Dev Wiki',
