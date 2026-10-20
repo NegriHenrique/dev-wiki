@@ -18,16 +18,29 @@ Este projeto foi construído utilizando as seguintes ferramentas:
 
 ---
 
-## 📂 Estrutura de Tópicos
+## 📂 Estrutura de Tópicos e Trilhas de Aprendizado
 
-Nossos artigos estão organizados em trilhas fundamentais de aprendizado:
+Nossos artigos estão organizados em um percurso sequencial progressivo:
 
-* **Git e GitHub**: Controle de versão, boas práticas de fluxo de trabalho e primeiros passos em Pull Requests.
-* **Lógica de Programação**: Fundamentos universais como estruturas de repetição e tomada de decisão.
-* **Boas Práticas**: Código limpo (Clean Code), padrões de nomenclatura e funções coesas.
-* **Frontend**: Estrutura da web, renderização e Document Object Model (DOM).
-* **Backend**: Arquitetura cliente-servidor, comunicação via API e protocolos.
-* **Segurança**: Higiene de segurança no desenvolvimento e proteção contra ameaças comuns.
+1. **Fase 1: Primeiros Passos & Ferramental**
+   * **Guia do Iniciante**: Orientações de estudos para novos profissionais e entusiastas de TI.
+   * **Ambiente de Desenvolvimento**: Computador, sistema operacional, terminal, editores e internet.
+   * **Git e GitHub**: Controle de versão, comandos essenciais e como enviar seu primeiro Pull Request no open source.
+2. **Fase 2: Fundamentos da Programação**
+   * **Lógica de Programação**: Raciocínio computacional, variáveis, condições, repetições e funções.
+   * **Estrutura de Dados e Algoritmos**: De memória, listas e buscas a grafos, programação dinâmica e projetos práticos.
+3. **Fase 3: Desenvolvimento de Aplicações**
+   * **Frontend**: HTML, CSS, JavaScript, DOM, acessibilidade e performance.
+   * **Backend**: HTTP, APIs, bancos de dados, autenticação e arquitetura.
+   * **Infraestrutura e DevOps**: Linux, Docker, CI/CD, nuvem e observabilidade.
+4. **Fase 4: Engenharia e Qualidade**
+   * **Boas Práticas**: Clean Code, SOLID, refatoração, padrões de projeto e testes.
+   * **Segurança**: OWASP Top 10, gestão de segredos, criptografia e LGPD.
+5. **Fase 5: Carreira e Comunidade**
+   * **Carreira**: Como estudar, portfólio, entrevistas, open source e soft skills.
+
+> Artigos marcados como **Em breve** na barra lateral fazem parte do roadmap de escrita e ainda não têm conteúdo. Eles são ótimas oportunidades para a sua primeira contribuição!
+
 
 ---
 

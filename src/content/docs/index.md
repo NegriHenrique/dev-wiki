@@ -8,7 +8,7 @@ hero:
     file: ../../assets/houston.webp
   actions:
     - text: Começar a Aprender
-      link: /dev-wiki/git-e-github/como-fazer-seu-primeiro-pull-request/
+      link: /dev-wiki/comece-aqui/
       icon: right-arrow
       variant: primary
     - text: Como Contribuir
@@ -30,15 +30,15 @@ Aprender em público e colaborar em equipe acelera a carreira de qualquer pessoa
 
 ## Trilhas de Conhecimento
 
-Nossos guias são estruturados em áreas fundamentais:
+Nossos guias estão organizados em um percurso sequencial progressivo:
 
-* **Controle de Versão com Git e GitHub**: Do primeiro commit ao envio de Pull Requests profissionais.
-* **Lógica e Fundamentos**: Algoritmos, repetições e raciocínio computacional aplicados.
-* **Estrutura de Dados e Algoritmos**: Dos fundamentos de memória e arrays a grafos, otimização e projetos práticos.
-* **Boas Práticas & Clean Code**: Como escrever código sustentável, legível e que sua equipe terá orgulho de manter.
-* **Desenvolvimento Frontend**: Entendendo a anatomia da web moderna e a manipulação do DOM.
-* **Desenvolvimento Backend**: Compreendendo a comunicação entre sistemas através de APIs e serviços.
-* **Segurança da Informação**: Higiene de segurança essencial para proteger aplicações contra vulnerabilidades comuns.
+1. **Fase 1: Primeiros Passos & Ferramental** — [Guia do Iniciante](/dev-wiki/comece-aqui/), [Ambiente de Desenvolvimento](/dev-wiki/ambiente-de-desenvolvimento/) (computador, terminal e internet) e [Git e GitHub](/dev-wiki/git-e-github/) (do primeiro commit ao envio de Pull Requests profissionais).
+2. **Fase 2: Fundamentos da Programação** — [Lógica de Programação](/dev-wiki/logica-de-programacao/) e [Estrutura de Dados e Algoritmos](/dev-wiki/estrutura-de-dados/) (de conceitos de memória a grafos e projetos).
+3. **Fase 3: Desenvolvimento de Aplicações** — [Frontend](/dev-wiki/frontend/) (HTML, CSS, JavaScript e DOM), [Backend](/dev-wiki/backend/) (HTTP, APIs e bancos de dados) e [Infraestrutura e DevOps](/dev-wiki/devops/) (contêineres, CI/CD e nuvem).
+4. **Fase 4: Engenharia e Qualidade** — [Boas Práticas](/dev-wiki/boas-praticas/) (Clean Code, SOLID e testes) e [Segurança da Informação](/dev-wiki/seguranca/) (OWASP e proteção contra vulnerabilidades).
+5. **Fase 5: Carreira e Comunidade** — [Carreira](/dev-wiki/carreira/) (estudos, portfólio, entrevistas e open source).
+
+Artigos marcados como **Em breve** fazem parte do nosso roadmap de escrita — escolha um e ajude a construí-lo!
 
 ## Como Fazer Parte
 
